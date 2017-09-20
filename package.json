@@ -1,0 +1,21 @@
+{
+  "name": "sabnzbd-client",
+  "description": "Node API Client for SABnzbd",
+  "author": {
+    "name": "Jamie Curnow",
+    "email": "jc@jc21.com"
+  },
+  "keywords": [
+    "sabnzbd",
+    "nzb",
+    "usenet"
+  ],
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "lodash": "^4.17.4",
+    "unirest": "^0.5.1"
+  },
+  "license": "MIT"
+}
